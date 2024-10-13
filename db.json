@@ -1,0 +1,52 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Cien años de soledad",
+      "author": "Gabriel García Márquez",
+      "year": 1967
+    },
+    {
+      "id": 2,
+      "name": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": 1605
+    },
+    {
+      "id": 3,
+      "name": "Don Quijote de la Mancha",
+      "author": "Miguel de Cervantes",
+      "year": 1605
+    },
+    {
+      "id": 4,
+      "name": "Orgullo y Prejuicio",
+      "author": "Jane Austen",
+      "year": 1989
+    },
+    {
+      "id": 5,
+      "name": "1984",
+      "author": "George Orwell",
+      "year": 1989
+    },
+    {
+      "id": 6,
+      "title": "Una breve historia del tiempo",
+      "author": "Stephen Hawking",
+      "year": 1988
+    },
+    {
+      "id": 6,
+      "title": "Una breve historia del tiempo",
+      "author": "Stephen Hawking",
+      "year": 1988
+    },
+    {
+      "id": 7,
+      "title": "Una breve historia del tiempo",
+      "author": "Stephen Hawking",
+      "year": 1988
+    }
+  ]
+}
